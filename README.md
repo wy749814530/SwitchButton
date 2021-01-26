@@ -63,7 +63,7 @@
 switchButton5.setOnCheckedChangeListener(new SwitchButton.OnCheckedChangeListener() {
       @Override
       public void onCheckedChanged(SwitchButton view, boolean isChecked) {
-           Log.i(TAG, (isChecked?:"开启":"关闭"))
+           Log.i(TAG, (isChecked?"开启":"关闭"))
       }
 });
 ```
