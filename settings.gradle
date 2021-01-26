@@ -1,0 +1,3 @@
+rootProject.name='SwitchButton'
+include ':app'
+include ':library'
