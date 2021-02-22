@@ -10,6 +10,8 @@
         <attr name="sb_border_width" format="reference|dimension" />
         <attr name="sb_checked_line_color" format="reference|color" />
         <attr name="sb_checked_line_width" format="reference|dimension" />
+        <attr name="sb_checked_button_color" format="reference|color" />
+        <attr name="sb_uncheck_button_color" format="reference|color" />
         <attr name="sb_uncheck_circle_color" format="reference|color" />
         <attr name="sb_uncheck_circle_width" format="reference|dimension" />
         <attr name="sb_uncheck_circle_radius" format="reference|dimension" />
@@ -22,8 +24,7 @@
         <attr name="sb_button_color" format="reference|color" />
         <attr name="sb_show_indicator" format="reference|boolean" />
         <attr name="sb_enable_effect" format="reference|boolean" />
-        <attr name="sb_checked_button_color" format="reference|color" />
-        <attr name="sb_uncheck_button_color" format="reference|color" />
+
 
     </declare-styleable>
 </resources>
